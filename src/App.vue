@@ -3,6 +3,7 @@
     <img
       src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3380660169,1377921261&fm=15&gp=0.jpg"
     />
+    <div>111</div>
     <router-view />
   </div>
 </template>
