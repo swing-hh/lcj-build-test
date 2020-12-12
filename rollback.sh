@@ -1,0 +1,1 @@
+cp -r /Users/lcj/lcj_workspace/lcj-build-test-mubiao-copy/* /Users/lcj/lcj_workspace/lcj-build-test-mubiao
